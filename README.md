@@ -1,3 +1,5 @@
+Paper: [Self-critical Sequence Training for Image Captioning](https://arxiv.org/abs/1612.00563)
+
 ### Train models using self critical
 
 Eval tools preparation: see coco-caption/README.md and cider/README.md
